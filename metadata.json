@@ -1,0 +1,8 @@
+{
+  "name": "MechVerse Inventory Tool",
+  "description": "A sophisticated inventory management tool featuring AI-powered product analysis, automated description generation, stock forecasting, and intelligent image generation for new items.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
